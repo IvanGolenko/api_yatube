@@ -34,7 +34,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### Пример запроса:
+### Примеры запросов:
 1. Добавление нового поста. \
 \
 Адрес запроса:
